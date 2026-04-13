@@ -1,0 +1,11 @@
+{
+  "version": "2.0.1",
+  "notes": "### Sharkord 2.0.1\n- Добавлена система обновлений\n- Исправлены баги в голосовом движке",
+  "pub_date": "2026-04-13T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "СЮДА_ВСТАВЬ_ТЕКСТ_ИЗ_ФАЙЛА_MSI_ZIP_SIG",
+      "url": "https://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@raw.githubusercontent.com/Arrtas/SRWupdater/main/sharkord.msi.zip"
+    }
+  }
+}
