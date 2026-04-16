@@ -1,11 +1,11 @@
 {
-  "version": "2.0.2",
-  "notes": "Sorrow 2\n- Система обновлений с дизайном!\n- Исправлены баги в голосовом движке.\n- Миграция на родной домен Sorrow-lp.online.\n- Первый Релиз!",
+  "version": "2.0.3",
+  "notes": "Sorrow 2\n- Обновлен SideBar, боковое меню личных сообщений.\n- Добавлено редактирование аватарки (Crop)\n- Музыкальный плеер (сверху справа когда в войсе)\n- Добавлены кнопки мута для себя (Сверху справа аудио)\n- Косметические исправления в текстах",
   "pub_date": "2026-04-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0lLdi85SVdDbm9VbzAxTUIzSnNGc3lwQzFFVkxleG5BOWp5TDh4aDRzQkw0OWc3N1V4VndqNDNZcHR6Zk10SXpSK0c4VllCQzJhL08yWTBoZzdnQXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTAzMDQxCWZpbGU6U29ycm93XzIuMC4yX3g2NC1zZXR1cC5leGUKWDFGbllvMW02NlVraUVjOEthdmhrTFIvVG5QWXNSeEJKdFRzUStuY3ptMGpzRXNxNVZFM1c1bTNXd3UxMkVsWHEzN3E5cXZtVG10NTFQOHV5MEFOQVE9PQo=",
-      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0JSOTZ6and0QzRKK3d1TE9sTFp5V1BvRUxnczRBdUZnVzJFOFZOM3JRV1E5SWlkeW56RU5mdm1PQUdxeWlNUGpaQjhQTXNpNWJYemhlWnFQZldYdUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mjk4ODA5CWZpbGU6U29ycm93XzIuMC4zX3g2NC1zZXR1cC5leGUKTDFhYXBkVm9DRmhTNWg5Z05CUjBFWXVrSEM0QURxR3ZZU2RGUkZSbXdoK1U3WGlva1lFR0VDeFBoUFN6ZkdsVXRpNnJRTHhiQUlvRnNtSExvZ1JyQUE9PQo=",
+      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.3_x64-setup.exe"
     }
   }
 }
