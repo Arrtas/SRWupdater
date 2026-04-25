@@ -1,11 +1,11 @@
 {
-  "version": "2.0.3",
-  "notes": "Sorrow 2\n- Обновлен SideBar, боковое меню личных сообщений.\n- Добавлено редактирование аватарки (Crop)\n- Музыкальный плеер (сверху справа когда в войсе)\n- Добавлены кнопки мута для себя (Сверху справа аудио)\n- Косметические исправления в текстах",
+  "version": "2.0.4",
+  "notes": "Sorrow 2\n- Свой Rich Presence (Кто во что играет и прикольные фразы).\n- Добавлена кнопка написать в личку\n- Исправление эмодзи\n- Полное обновление плашки пользователя.\n- Настройки - Другое (Кнопка для Rich)",
   "pub_date": "2026-04-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0JSOTZ6and0QzRKK3d1TE9sTFp5V1BvRUxnczRBdUZnVzJFOFZOM3JRV1E5SWlkeW56RU5mdm1PQUdxeWlNUGpaQjhQTXNpNWJYemhlWnFQZldYdUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mjk4ODA5CWZpbGU6U29ycm93XzIuMC4zX3g2NC1zZXR1cC5leGUKTDFhYXBkVm9DRmhTNWg5Z05CUjBFWXVrSEM0QURxR3ZZU2RGUkZSbXdoK1U3WGlva1lFR0VDeFBoUFN6ZkdsVXRpNnJRTHhiQUlvRnNtSExvZ1JyQUE9PQo=",
-      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0R6S2htRVdNSEloSUdvT2V6SG9vS3dOaWJtcGo1MnNzSUxpN2hyaDJlUmkvcjJOVHMwTWtZcExwYXVsTHVZV21FZjZYcC82RExCVm1VbmprMzEvU1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTEzOTE5CWZpbGU6U29ycm93XzIuMC40X3g2NC1zZXR1cC5leGUKSW5ZaTVTZEloQ0RoSkR6MG52NXVaVG1hSlRkY1ZKTldoM0JrYlNTZzZ3VkwzVFl4STl6a3BucVl6ZDN0ZTJ0c01yeFhtcWhoT0JXK1FpbjFORHFWREE9PQo=",
+      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.4_x64-setup.exe"
     }
   }
 }
