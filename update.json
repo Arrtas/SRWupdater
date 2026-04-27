@@ -1,11 +1,11 @@
 {
-  "version": "2.0.5",
-  "notes": "Sorrow 2\n- Свой Rich Presence (Кто во что играет и прикольные фразы).\n- Добавлена кнопка написать в личку\n- Исправление эмодзи\n- Полное обновление плашки пользователя.\n- Добавление популярных иконок для игр\n- Настройки - Другое (Кнопка для Rich)",
+  "version": "2.0.6",
+  "notes": "Sorrow 2\n- Добавлен автозапуск при ВКЛ ПК. \n- Добавлена система Tray (Фоновый процесс, можно закрыть приложение)\n- Исправлено октрытие несколько Sorrow",
   "pub_date": "2026-04-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0xWeXVqbFVNazd1Tmw0eE9KMk5HaGhQMUNQM3R4Z1VzNTdEV3FidFQxVDAxSVIwTkc1alBpQUxoS1hNdnZGNnEwcXNyUnFhZnlGaThUVXdCaGhiUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMwODYyCWZpbGU6U29ycm93XzIuMC41X3g2NC1zZXR1cC5leGUKOXY2ZlRWbkdWL0NvbUNRTXhTRFgxTi80dDFvMGF0TENJM25sNXNDeWo5elRaNDg4TDN2emdOT1k2eFM3SE1OYmh3OXRlcXNzK3BneFRRQ0d0K1ZnRGc9PQo=",
-      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0lTZElXUXN2NGMxc1hzOFpROE1HbGM5b3lGcGxDZ0IwdTRaMXVNTVhTcmJwWFVpd1ZEQnB0MFZwV0RzdDRQNDBrbld3aE9tMG8rQVNIeTY3QUhRVlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjU4MTE5CWZpbGU6U29ycm93XzIuMC42X3g2NC1zZXR1cC5leGUKeGlSTzh0WExaMVRSK0k2cUNxYS96RkFKc1BWeVJLbWFvUHA2U0FDMy9sUlpST2Q5S2t1ejhyY2ZGTi81aTFoRXRNY28yQ1RLcGt6dW9TcERxUm9PQVE9PQo=",
+      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.6_x64-setup.exe"
     }
   }
 }
