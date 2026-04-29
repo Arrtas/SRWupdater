@@ -1,11 +1,11 @@
 {
-  "version": "2.0.6",
-  "notes": "Sorrow 2\n- Добавлен автозапуск при ВКЛ ПК. \n- Добавлена система Tray (Фоновый процесс, можно закрыть приложение)\n- Исправлено октрытие несколько Sorrow",
+  "version": "2.0.7",
+  "notes": "Sorrow 2\n- Улучшение рендера текста (Оптимизация сообщений + создание кеширования).\n- Добавление в печатную строку 'Сообщение в'\n- Полная оптимизация рендера текста и инпута. Уменьшение нагрузки.\n- Фикс рамок аватарок.",
   "pub_date": "2026-04-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0lTZElXUXN2NGMxc1hzOFpROE1HbGM5b3lGcGxDZ0IwdTRaMXVNTVhTcmJwWFVpd1ZEQnB0MFZwV0RzdDRQNDBrbld3aE9tMG8rQVNIeTY3QUhRVlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjU4MTE5CWZpbGU6U29ycm93XzIuMC42X3g2NC1zZXR1cC5leGUKeGlSTzh0WExaMVRSK0k2cUNxYS96RkFKc1BWeVJLbWFvUHA2U0FDMy9sUlpST2Q5S2t1ejhyY2ZGTi81aTFoRXRNY28yQ1RLcGt6dW9TcERxUm9PQVE9PQo=",
-      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0pDMFhnQTVkckNsaTN1dkdiUlBwZ3hvVkgra2R2WHQwWlNYdlJtMmhYNXB2UzhpN2FheWREUU1ycUJCcTZ6ZStJNXp0TVFNWWx6UkRGZGxWNHJuY2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDQ4ODkwCWZpbGU6U29ycm93XzIuMC43X3g2NC1zZXR1cC5leGUKVk9FZlEwZG5SSTlOeDVrTXZCSUxVYnBzSUdRemM0a29NWnNTeXpHbzdQMHhKVEIvazJGUEFOQ2xML1dUS1k1K29CRWlEZ3pLODNqaEgweHZNOUdyQkE9PQo=",
+      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.7_x64-setup.exe"
     }
   }
 }
