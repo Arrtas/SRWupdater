@@ -1,11 +1,11 @@
 {
-  "version": "2.0.8",
-  "notes": "Sorrow 2\n- Добавлены 3 градиентовые темы! Чтобы включить их зайдите в Настройки - Внешний вид, опционально можно отключить анимацию.\n- В тестовом режиме запускаю системные уведомления, теперь в настройках можете врубить категорию уведомлений (их всего три, особенно полезная когда вас тегают :)), да пока что не красивые.\n- Добавлена возможность (если есть разрешение))) перетаскивать с войса юзеров в другой войс.\n- Исправлена некорректная работа Presense (Игровая активность), надеюсь это поможет.\n- Добавлены эффекты размытия для некоторых окон.\n- Вообще не запланированный релиз, тк хотелось добавить еще куча всего, но из за поплывшего presense пришлось экстро-апдейт делать, такие дела.",
+  "version": "2.0.9",
+  "notes": "Sorrow 2\n- ИСПРАВЛЕНЫ ДЕМКИ со звуком. Ура!\n- Исправлен счетчик личных сообщений.\n- Исправлена стандартная тёмная тема (Прозрачности).\n- Громкость пользователя теперь можно ставить 200%",
   "pub_date": "2026-04-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0pqUzhDT3N3dUQvdzNtSXZKcFR4bFlkVFdGdmdnUjVmSy9ya0FXTkxPWUJaWFdPYm1nL3R3Qzg1cklyaG51OGhWR2FBS0EvVTNKMld1LzJOVGJJQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTEzMjMzCWZpbGU6U29ycm93XzIuMC44X3g2NC1zZXR1cC5leGUKQWhNR1JZVFpOZGlLRVlNVE1jajlRMDVzR0Z1aE1kM1psRm9FdWRzNG43NEhkRGdzSEJ3TmtWdUlzSE03S0JDb1JndUZGVVV4ZEZLQ0J2bW1lQkZPQlE9PQo=",
-      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR08wdDI5WHFjUTVIOEk3TTF4K3I3NENUbG9nOUdsek5IVnpFT0tKZ2M4MU9ZcXltSEpvN3J5Yk1UYnhuRnFpZDA2Nzl2ZkgxTjF6YlFGRHUvNjlWbkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzIxMTI3CWZpbGU6U29ycm93XzIuMC45X3g2NC1zZXR1cC5leGUKbFlOTncxVS9XNm5QcGJkSXpjNGpkcVppNjBUbjlpb0EwbEN2L0NNU2xrem5uZmpmUGJxTG56WnhiNHZMYzBIZnB2KzluT094SU15S1RTZFQ5aDFMQ1E9PQo=",
+      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.0.9_x64-setup.exe"
     }
   }
 }
