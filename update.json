@@ -1,11 +1,11 @@
 {
-  "version": "2.1.0",
-  "notes": "Sorrow 2\n- Хотфикс стандартной темы.",
+  "version": "2.1.1",
+  "notes": "Sorrow 2\n- Фикс YouTube ссылки.",
   "pub_date": "2026-04-13T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0loK0lpYmpIR2d4NEQzZlN4MlVHeFBYZHoxeUZieHhiN0NtYnRwR0QyakRTZzJsYlUyelRyQW1xeWFlSjlwYmxQL3lIZFRUNExIUFN0L2pnM0pqYUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTgyOTQ0CWZpbGU6U29ycm93XzIuMC45X3g2NC1zZXR1cC5leGUKQnRJR2I1aVIvM1dUS3BVRTUxMlZSa1Y2dHhkOExjRW5RdFFKbG5uajlRVG9YZjZ6QnovamhpRTNTU3JSaVBad0k1Nm5rbGV6YmFKTnRsR2d4YmJ1QkE9PQo=",
-      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUERLdjc2RmJvR0tUcVZtOHZxcUo2S05BT2t6azFFZFRtcUhCVStTemhvaUZKZUxvbG1BUENhT0JodUt3MDlCS1VKRm0xTU1FM2FzTElHSjN4d3hqMFM5RlZPVnFBbVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDc5NDE1CWZpbGU6U29ycm93XzIuMS4xX3g2NC1zZXR1cC5leGUKeis1eEtObUlJcXJCMlJNL2J4WGp0eEpCaVVhZndzUDgrR3lLMURMOUp5Z3BVU081NzhJaDY4djJRdjNoQnQydEVRMmcyMnFaVU9RajhsbWowODZOQWc9PQo=",
+      "url": "https://github.com/Arrtas/SRWupdater/raw/refs/heads/main/Sorrow_2.1.1_x64-setup.exe"
     }
   }
 }
